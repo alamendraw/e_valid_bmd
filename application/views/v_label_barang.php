@@ -10,7 +10,7 @@
 	<div class="box">
 		<div class="box-body">
 			<div class="card-header">
-				<h4 align="center">CETAK LABEL SENSUS</h4><hr>
+				<h4 align="center">CETAK LABEL BARANG</h4><hr>
 			</div>
 			<div class="card-body form-horizontal">
 				<div class="row">
